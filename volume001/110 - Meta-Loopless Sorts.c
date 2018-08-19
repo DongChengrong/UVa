@@ -49,8 +49,7 @@ int main() {
         puts(");");
         MetaSort(1, n);
         puts("end.");
-        if(t)
-            puts("");
+        if(t) puts("");
     }
     return 0;
 }
